@@ -9,7 +9,7 @@ Share the dist/ directory utilising any popular web server. To build the latest 
 To build the javascript:
 
     npm install
-    gulp
+    node_modules/.bin/webpack
 
 More information
 ----------------
